@@ -19,7 +19,7 @@ import React, { ReactElement } from "react";
 
 export const navigationIcons: ReactElement[] = [
   <House key="house" width={18} height={18} />,
-  <Image key="image" width={18} height={18} alt="image" />,
+  <Image key="image" width={18} height={18} />,
   <Video key="video" width={18} height={18} />,
   <Pen key="pen" width={18} height={18} />,
   <Brush key="brush" width={18} height={18} />,
